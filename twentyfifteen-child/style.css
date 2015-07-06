@@ -1,0 +1,30 @@
+/* 
+ Theme Name:   Twenty Fifteen Child
+ Theme URI:    http://example.com/twentyfifteen-child/
+ Description:  Twenty Child Theme
+ Author:       Test User
+ Author URI:   http://example.com
+ Template:     twentyfifteen
+ Version:      1.0.0
+ License:      GNU General Public License v2 or later
+ License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+ Tags:         black, left-sidebar, right-sidebar, fluid-layout, responsive-layout, custom-menu, editor-style, featured-images, full-width-template, post-formats, sticky-post, theme-options, threaded-comments, translation-ready, custom-background, custom-colors, custom-header, sticky-post
+ Text Domain:  twentyfifteen-child
+*/
+
+ul.share-buttons{
+  list-style: none;
+  padding: 0;
+}
+
+ul.share-buttons li{
+  display: inline;
+}
+
+ul.share-buttons li a {
+  border: 0;
+}
+
+ul.share-buttons li img{
+  display: inline;
+}
